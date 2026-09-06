@@ -1,0 +1,26 @@
+# Glossary
+
+- **Android API level:** A number representing an Android platform version. API 26 means Android 8.0.
+- **BLE:** Bluetooth Low Energy, a battery-friendly way for nearby sensors and phones to communicate.
+- **Classifier:** Code or a model that places an input into a category such as Normal, Moderate, or Critical.
+- **Cloud:** Remote computers reached through the internet.
+- **Compose:** Android's Kotlin-based system for building user interfaces.
+- **DAO:** Data Access Object; the Room interface used to save and retrieve database records.
+- **Edge AI:** Running an AI model near the data source, such as on the phone, instead of on a cloud server.
+- **Feature:** One value supplied to a machine-learning model, such as heart rate.
+- **GATT:** The BLE structure that organizes sensor services and readable characteristics.
+- **Inference:** Using a trained model to make a prediction from new input.
+- **IoT:** Internet of Things; physical sensors or devices that collect and exchange data.
+- **Jetpack:** Android libraries that provide common application building blocks.
+- **Keystore:** Android's protected facility for creating and storing cryptographic keys.
+- **Kotlin:** The programming language used by this Android application.
+- **MVVM:** Model-View-ViewModel, a pattern that separates data, screen state, and UI rendering.
+- **Offline-first:** Core features are designed to work without an internet connection.
+- **ONNX:** A portable file format for trained machine-learning models.
+- **Random Forest:** A classifier that combines predictions from many decision trees.
+- **Repository:** An application class that provides a clean interface to one or more data sources.
+- **Room:** Android's library for working with a local SQLite database.
+- **SQLCipher:** A library that encrypts a SQLite database.
+- **Synthetic data:** Artificially generated data that resembles a scenario but was not measured from real people or devices.
+- **UUID:** An identifier used to find a particular BLE service or characteristic.
+- **ViewModel:** A class that stores screen state and coordinates UI actions without drawing the screen.
