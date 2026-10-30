@@ -8,3 +8,14 @@ captures/
 .cxx/
 app/build/
 
+# Android signing & secret rules
+*.jks
+*.keystore
+key.properties
+.env
+.env.*
+*.pem
+*.key
+*secret*
+*credential*
+*.log
